@@ -1,0 +1,53 @@
+*{
+  box-sizing: border-box;
+}
+nav {
+    height: 80px;
+    justify-content: center;
+    display: flex;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    background-color: #F55A5A;
+}
+.nav--logo {
+  width: 60px;
+  height: 60px;
+  margin: auto 0px;
+}
+p{
+margin: auto 0px;
+justify-content: center;
+font-weight: 500;
+font-size: 15px;
+letter-spacing: -0.075em;
+}
+.icon--loc{
+  width: 15px;
+}
+
+.card--images{
+  width: 200px;
+  height: 250px;
+  border-radius: 4px;
+  margin: 40px 30px 30px 20px;
+}
+.row{
+  display:inline-flex;
+  justify-content: flex-start;
+
+}
+.right {
+  margin-top: 40px;
+
+}
+.title{
+  font-weight: bold;
+  
+
+}
+.date{
+  font-weight: bold;
+}
+a{
+  font-weight: bold;
+   margin-left: 10px;
+}
